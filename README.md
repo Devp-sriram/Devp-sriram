@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at my Linkedin [https://www.linkedin.com/in/devp-sriram/](https://www.linkedin.com/in/devp-sriram/)
 
-- 💬 Ask me about **Web development , MERN , typescript , langchain**
+- 💬 Ask me about **Web development , MERN , typescript , RAG , langchain**
 
 - 📫 How to reach me **https://www.instagram.com/devp_sriram/**
 
