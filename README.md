@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web development , MERN , typescript , RAG , langchain, hugging face**
 
-- 📫 How to reach me **https://www.instagram.com/devp_sriram/**
+- 📫 reach me on **https://www.instagram.com/devp_sriram/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OvO9dnvH0qSDWzppdv7KRcBWOaLJguSV/view?usp=sharing](https://drive.google.com/file/d/1OvO9dnvH0qSDWzppdv7KRcBWOaLJguSV/view?usp=sharing)
 
