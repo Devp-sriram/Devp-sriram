@@ -26,7 +26,7 @@
 <a href="https://instagram.com/devp_sriram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devp_sriram" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming languages and Tools:</h3>
 <p align="left"> 
 
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
