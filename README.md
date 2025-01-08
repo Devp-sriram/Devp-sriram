@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with learning **DSA**
 
-- 👨‍💻 All of my projects are available at my Linkedin [https://www.linkedin.com/in/devp-sriram/](https://www.linkedin.com/in/devp-sriram/)
+- 👨‍💻 All of my projects are available at my Linkedin [https://www.linkedin.com/in/devp-sriram/](https://www.linkedin.com/in/devp-sriram)
 
 - 💬 Ask me about **Web development,MERN,typescript,RAG,langchain,hugging face**
 
