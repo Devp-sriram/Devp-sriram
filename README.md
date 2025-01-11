@@ -66,4 +66,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devp-sriram&show_icons=true&locale=en&layout=compact" alt="devp-sriram"/></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devp-sriram&" alt="SERVER_OUT" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devp-sriram&" alt="streak" /></p>
