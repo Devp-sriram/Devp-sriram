@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently building my skill by building projects
 
-- 🌱 I’m currently learning **AWS and kubernetes Microservices**
+- 🌱 I’m currently learning **AWS and Microservices**
 
 - 👯 I’m looking to collaborate on on robust application
 
