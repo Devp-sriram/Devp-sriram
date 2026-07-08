@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sriram </h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently building my skill by building projects
 
-- 🌱 I’m currently learning **AWS and Microservices**
+- 🌱 I’m currently learning **Microservices**
 
 - 👯 I’m looking to collaborate on on robust application
 
