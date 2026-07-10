@@ -14,7 +14,7 @@
 
 - 📫 reach me on **https://www.instagram.com/devp_sriram/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OvO9dnvH0qSDWzppdv7KRcBWOaLJguSV/view?usp=sharing](https://drive.google.com/file/d/1OvO9dnvH0qSDWzppdv7KRcBWOaLJguSV/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1W5R3G-YQ7tfYw1M0I7YzAYCrU-IcDZOW/view?usp=sharing)
 
 <h3 align="left">Connect with me </h3>
 <p align="left">
